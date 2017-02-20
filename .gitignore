@@ -1,0 +1,6 @@
+~/repos/website/.gitignore
+
+*~
+tmp/
+
+.DS_Store
